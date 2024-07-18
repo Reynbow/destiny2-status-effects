@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function() {
-    const API_KEY = '212bbcdd1fc946ba8fa0e6da3e96ceb5';
+    const API_KEY = '';
     const effectDescriptionElement = document.getElementById('effect-description');
 
     async function fetchRestorationEffect() {
